@@ -55,7 +55,7 @@ I felt like some of my charts are very simple, but if they are what the reader u
 
 ## References of Data Used for Final Project
 
-Below is the link that combines all of the data sources and websites that I used. 
+Below is the link that combines all the data sources and websites that I used. The data I used was to help mentally illustrate: what diversity and inclusion are separately, how companies are struggling to capture this, a possible solution to this problem, an example of a company who has captured diversity and inclusion and how the reader can also become a part of the solution to an inclusive environment. 
 
 [References](https://infogram.com/references-1h7z2l3eyjme2ow?live)
 
