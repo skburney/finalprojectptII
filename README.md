@@ -8,7 +8,7 @@ After getting feedback from classmates and my professor on the direction of my p
 
 I wanted to keep my original story arc (seen in Final Project Part I) that took the reader on a journey of emotions.  I wanted to keep it starting out neutral with definitions and then moving along.  
 
-**Mediums used**: Shorthand & Infogram
+**Mediums Used**: Shorthand & Infogram
 
 **Target Audience**: Heinz College members, but also wanted to make it open that anyone reading could have a general connection to the material
 
