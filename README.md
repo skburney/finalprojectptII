@@ -38,6 +38,10 @@ When I wanted to highlight diversity and inclusion, I used a deep teal and a dee
 
 For showing women, I wanted to use pink as it is usually related to women.  For another graphic within AT&T, I went back to muted purple colors because I had POC and women represented and did not want to bring back that pink color and confuse the reader with a negative feeling.  I tied back to my more positive colors in the beginning of my presentation since I knew it would be difficult to use the exact same colors from before. 
 
+# Moodboards
+
+![purple mood](images (1).jpg)
+
 ### Final Graphics Used 
 
 I created and edited all my graphics using Infogram.  I re-worked many of them by starting with simple information from my data sources and seeing how I could add more details without it being convoluted.  I then got feedback from my partner on if he understood the graphics without me having to explain them to him and from there, I made changes or used completely different graphs/charts.  
