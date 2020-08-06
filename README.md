@@ -8,13 +8,23 @@ After getting feedback from classmates and my professor on the direction of my p
 
 I wanted to keep my original story arc (seen in Final Project Part I) that took the reader on a journey of emotions.  I wanted to keep it starting out neutral with definitions and then moving along.  
 
+**Mediums used**: Shorthand & Infogram
+
+**Target Audience**: Heinz College members, but also wanted to make it open that anyone reading could have a general connection to the material
+
 ### Summary of Changes
 
 - After creating a clear 'Call to Action', I first began by defining 'Diversity' & 'Inclusion' to help the reader understand what these meant.  
 - Next, I wanted to show some statistics of the positivitys of having diversity within the workplace and why it matters. 
 - Which led me to start combing through the many sources of data that I had and tried to focus on what mattered to getting my point across and how it connected to my 'Call of Action' of *How to be more incluivse at Heinz College*
-- I started with a graphic that was related to basic career level and race that I found from [CNBC](https://www.cnbc.com/2020/06/11/companies-are-making-bold-promises-about-greater-diversity-theres-a-long-way-to-go.html) and I reworked the graph to show this information has not changed 
-
+- I started with a graphic that was related to basic career level and race that I found from [CNBC](https://www.cnbc.com/2020/06/11/companies-are-making-bold-promises-about-greater-diversity-theres-a-long-way-to-go.html) and I reworked the graph to show this information has not changed
+- After finalizing this graphic, I wanted to keep that negative feeling and show various companies and industries that struggle with diversity and inclusion.  I orginially had an example on the NFL, Berkshire Hathaway and the entertainment industry. 
+- However, after receiving feedback they all felt disconnected in a way and I cut it back to one example with the NFL.  And I essentially added the Tech industry as a focus, but only in a graphic.  This was tailored more towards my CMU audience. 
+- I then moved my definition of Inclusion to a new and seperate section since it is different from diversity and I wanted the reader to look at inclusion as the solution for what companies are lacking.  Doing this adding more context and true story to my presentation.  
+- I then moved into my positive company example, AT&T, which was an example given to me by a fellow classmate.  I had so much data on AT&T's diversity efforts, but I wanted to hit on ones that everyone could connect to: Women, People of Color, People with Disabilities and the LGBTQ+ communities.  I focused on these because it is highly likely that anyone watching this presentation knows someone or is someone in one of these groups. 
+- Then I created some visulaizations that fit each of these categories and again kept them simple and added them to my presentaiton.  
+- I then tied it all into my call to action and made sure it had a clear and distinct change.  
+- Overall, I wanted the reader to feel informed and inspired to be a part of a change that impacts their friends, families and themselves. 
 
 ## Details on Graphics and Colors Used
 
@@ -26,11 +36,25 @@ When I wanted the reader to feel positive, I tried sticking with a light blue th
 For the more negative feelings I used a light red and for the transisition from informaiton to negtaive, I used a bold deep red.  
 When I wanted to highlight diversity and inclusion I used a deep teal and a deep gold, respectivley.  This was so the reader could understand that these two are different from each other and not the be confused into being the same. 
 
+For showing women, I wanted to use pink as it is ususally related to women.  For another graphic within AT&T, I went back to muted purple colors because I had POC and women represented and did not want to bring back that pink color and confuse the reader with a negative feeling.  I tied back to my more positive colors in the beginning of my presentation since I knew it would be difficult to used the exact same colors from before. 
+
 ### Final Graphics Used 
 
-I created and edited all of my graphics using Infogram.  I re-worked many of them by starting with simple information from my data sources and seeing how I could add more details without it being convoluted.  I then got feedback from my partner on if he understood the graphics without me having to explain them to him and from there I made changes or used completely different graphs/charts.  I felt like some of my charts are very simple, but if they are what the reader understands and connects to the most then that's what matters.
+I created and edited all of my graphics using Infogram.  I re-worked many of them by starting with simple information from my data sources and seeing how I could add more details without it being convoluted.  I then got feedback from my partner on if he understood the graphics without me having to explain them to him and from there I made changes or used completely different graphs/charts.  
 
+I felt like some of my charts are very simple, but if they are what the reader understands and connects to the most then that's what matters.
+
+- [Career Level By Race](https://infogram.com/final-1hkv2nr8x9xr4x3?live) 
+- [Women CEOs in 2018](https://infogram.com/women-ceos-1hke60dex00525r?live) 
+- [Diversity in Tech Companies](https://infogram.com/top-us-companies-1hke60dejxje25r?live) 
+   - This was my original graphic for *Diversity in Tech Companies* [Original Diversity in Tech Companies](https://infogram.com/final3-1hdw2jo95vwo6l0?live)
+- [NFL Head Coaches](https://infogram.com/nfl-head-coaches-1h8n6mxvympv4xo?live)
+- [AT&T Diverse Leadership](https://infogram.com/att-management-1h7k231kpn1k4xr?live)
+- [AT&T Persons with Disabilities](https://infogram.com/att-disabilities-1h8n6mxvol7v4xo?live)
+- [AT&T Summary of Important Diversity Statistics](https://infogram.com/att-facts-1hdw2jo9jm9o6l0?live)
 
 ## References of Data Used for Final Project
+
+Below is the link that combines all of the data sources and websites that I used. 
 
 [References](https://infogram.com/references-1h7z2l3eyjme2ow?live)
