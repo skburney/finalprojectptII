@@ -40,10 +40,11 @@ For showing women, I wanted to use pink as it is usually related to women.  For 
 
 # Moodboards
 
-These are the colors for the overall mood of my presentation
-<img src="https://github.com/skburney/finalprojectptII/blob/master/e02636112548d6212e1c1e689cdb5272.jpg" width="600"><br>
+These are the colors for the overall mood and feel of my presentation
 
-<img src="https://github.com/skburney/finalprojectptII/blob/master/pexels-photo-1433052.jpeg" width="600"><br>
+<img src="https://github.com/skburney/finalprojectptII/blob/master/e02636112548d6212e1c1e689cdb5272.jpg" width="600"><br>
+<img src="https://github.com/skburney/finalprojectptII/blob/master/pexels-photo-1433052.jpeg" width="600"><br><br>
+<img src="https://github.com/skburney/finalprojectptII/blob/master/pexels-photo-2249527.jpeg" width="600"><br>
                                                                                                         
 
 ### Final Graphics Used 
