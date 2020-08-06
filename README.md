@@ -50,7 +50,7 @@ These are the colors for the overall mood and feel of my presentation.
 
 These are the colors that I used for the majority of my graphics and other colors throughout my presentation.
 
-<img src="https://github.com/skburney/finalprojectptII/blob/master/pexels-photo.jpg" width="600"><br>
+<img src="pexels-photo.jpg" width="600"><br>
 <img src="https://github.com/skburney/finalprojectptII/blob/master/pexels-photo-3584283.jpeg" width="600"><br>
 <img src="https://github.com/skburney/finalprojectptII/blob/master/pexels-photo-1486974.jpeg" width="600"><br>
                                                                                                         
