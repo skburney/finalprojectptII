@@ -33,4 +33,4 @@ I created and edited all of my graphics using Infogram.  I re-worked many of the
 
 ## References of Data Used for Final Project
 
-![References](https://infogram.com/references-1h7z2l3eyjme2ow?live)
+[References](https://infogram.com/references-1h7z2l3eyjme2ow?live)
