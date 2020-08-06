@@ -40,7 +40,7 @@ For showing women, I wanted to use pink as it is usually related to women.  For 
 
 # Moodboards
 
-!(finalprojectptII/e02636112548d6212e1c1e689cdb5272.jpg)
+<img src="https://github.com/skburney/finalprojectptII/blob/master/e02636112548d6212e1c1e689cdb5272.jpg" width="600"><br>
 
 ### Final Graphics Used 
 
