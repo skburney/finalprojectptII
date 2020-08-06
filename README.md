@@ -40,7 +40,7 @@ For showing women, I wanted to use pink as it is usually related to women.  For 
 
 # Moodboards
 
-[purple mood](images (1).jpg)
+![purple mood](images (1).jpg)
 
 ### Final Graphics Used 
 
